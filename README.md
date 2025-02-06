@@ -6,10 +6,10 @@
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/aswinrajendran" target="_blank">
+  <a href="https://www.linkedin.com/in/aswinrajendr" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/arajftw" target="_blank">
+  <a href="https://github.com/apollofps" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-arajftw-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
